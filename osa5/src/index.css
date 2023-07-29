@@ -1,0 +1,29 @@
+.notification {
+    color: blueviolet;
+    background: rgb(189, 184, 184);
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .blogstyle {
+    background: rgb(189, 184, 184);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-style: solid;
+    border-width: 1px;
+  }
+  
+  .loginformstyle {
+    background: rgb(189, 184, 184);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-style: solid;
+    border-width: 1px;
+  }

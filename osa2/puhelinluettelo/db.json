@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "12345-12345",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Pök R. Ollikainen",
+      "number": "1234-66-789445",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYxZjgyMmM4ZmVkN2IxMmFhOTJiNTQ5MyIsImlhdCI6MTY0MzgwMDQzM30.wEFtCx2e-0om9L89SD9zirKUv-oy1hLEEY6SUrf9zNA
+
+{
+    "title": "Best sofas (and other furniture) to sharpen your claws on",
+    "author": "Pök Riiviö Ollikainen",
+    "url": "www.bestsofastocratch.com",
+    "user": "61f822c8fed7b12aa92b5493",
+    "likes": 2
+}
